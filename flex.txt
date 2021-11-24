@@ -1,0 +1,2 @@
+display: flex; -- Convierte un elemento en flexbox
+flex-direction: row, column, row inverse, column inverse -- Especifica la direccion del eje principal
