@@ -3,6 +3,7 @@ html, body{
     margin: 10px;
 }
 .container{
+    background-color: gray;
     display: flex;
     flex-direction: row;
     border: 5px solid #ffcc5c;
@@ -13,12 +14,16 @@ html, body{
 
 .c1{
     background-color: #96ceb4;
+    flex: 1;
 }
 
 .c2{
     background-color: #ff6f69;
+    flex: 1;
 }
 
 .c3{
     background-color: #88d8b0;
+    flex: 1;
+
 }
